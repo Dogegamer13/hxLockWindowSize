@@ -1,4 +1,4 @@
-package states;
+package hxLockWindowSize;
 
 import openfl.Lib;
 import openfl.events.Event;
