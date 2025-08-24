@@ -22,4 +22,6 @@ Place this at the top (or bottom) of your `Main.hx` file:
 ```haxe
 import hxLockWindowSize.LockWindowSize;
 
+```
 # Originally a fork of [hxWindowColorMode](https://github.com/TBar09/hxWindowColorMode-main)
+
