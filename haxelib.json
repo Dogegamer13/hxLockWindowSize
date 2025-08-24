@@ -1,0 +1,10 @@
+{
+  "name": "hxLockWindowSize",
+  "license": "MIT",
+  "tags": ["window", "utility"],
+  "description": "A simple Haxe library to lock or restrict the window size in desktop applications.",
+  "version": "1.0.2",
+  "classPath": "src/",
+  "releasenote": "messed up the readme.md while giving instructions. whoops.",
+  "contributors": ["karuthecoder255"]
+}
