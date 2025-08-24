@@ -23,5 +23,6 @@ Place this at the top (or bottom) of your `Main.hx` file:
 import hxLockWindowSize.LockWindowSize;
 
 ```
-# Originally a fork of [hxWindowColorMode](https://github.com/TBar09/hxWindowColorMode-main)
+Originally a fork of [hxWindowColorMode](https://github.com/TBar09/hxWindowColorMode-main)
+
 
