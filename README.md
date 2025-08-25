@@ -21,9 +21,10 @@ Place this at the top (or bottom) of your `Main.hx` file:
 
 ```haxe
 import hxLockWindowSize.LockWindowSize;
-
+haxelib git hxLockWindowSize https://github.com/Dogegamer13/hxLockWindowSize.git (use this one, haxe wont let me update it)
 ```
 Was Originally a fork of [hxWindowColorMode](https://github.com/TBar09/hxWindowColorMode-main)
+
 
 
 
