@@ -3,8 +3,9 @@
   "license": "MIT",
   "tags": ["window", "utility"],
   "description": "A simple Haxe library to lock or restrict the window size in desktop applications.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "classPath": "src/",
-  "releasenote": "messed up the readme.md while giving instructions. whoops.",
+  "releasenote": "fixed package error",
   "contributors": ["karuthecoder255"]
 }
+
